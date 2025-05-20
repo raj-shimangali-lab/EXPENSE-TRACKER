@@ -1,0 +1,4 @@
+income,salary,20.00,2025-05-30
+income,salary,2000.00,2025-02-12
+income,salary,3000.00,2020-08-12
+expense,food,200000.00,2025-01-12

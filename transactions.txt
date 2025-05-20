@@ -1,0 +1,6 @@
+income,salary,20000.00,2025-05-30
+income,salary,2000.00,2025-02-12
+income,salary,3000.00,2020-08-12
+expense,food,200.00,2025-01-12
+income,bussiness,30.00,2025-03-12
+income,salary,500.00,2025-12-04
